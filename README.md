@@ -9,3 +9,5 @@ The requirements you will need are just openai and python. Make sure you type th
 With this new script, your API key is hidden and separated in a config file. Make sure you edit the config file and replace your_api_key with your API key. I added a lot of different features
 
 Make sure you have fun and report any bugs.
+
+KNOWN BUGS: The lower the temperature slider, the more the text rewriter is better.
